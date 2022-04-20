@@ -1,4 +1,4 @@
-### Halo, I'm Ali Latukau! 👋
+### Halo 👋
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
